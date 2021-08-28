@@ -1,6 +1,6 @@
-HW1
+HW3
 
-Arrays
+Array
 
 Bingo
 
